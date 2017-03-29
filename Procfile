@@ -1,1 +1,1 @@
-worker: python QuoteBot.py
+worker: python WeatherBot.py
